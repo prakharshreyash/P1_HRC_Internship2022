@@ -1,0 +1,200 @@
+.logo-flex{
+  
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+}
+ .logo-item{
+     width: 500px;
+
+ }
+ .logo-item1{
+     width: 500px;
+     
+ }
+
+
+ body{
+    background: transparent radial-gradient(closest-side at 50% 50%, #58687E 0%, #39495E 100%) 0% 0%;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /*font: normal normal normal 20px/24px Ubuntu;*/
+    letter-spacing: 0.29px;
+}
+.wrapper{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    background-color: #273D49CC;
+    padding-right: 50px;
+}
+.button-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    margin-bottom: 10px;
+    left: 0px;
+    width: 1500px;
+    height: 40px;
+    padding: 10px;
+    font: normal normal bold 39px/50px Futura PT;
+    letter-spacing: 0px;
+    
+    
+    
+    
+}
+.search-box{
+    float: right;
+    text-align: center;
+    background: white;
+    height: 18px;
+    border-radius: 10px;
+    padding: 17px;
+    border: solid #356680 1px;
+    margin-right: 70px;
+    margin-left: 100px;
+    margin-top: 3px;
+    
+    
+}
+
+.search-txt{
+    background: none;
+    border: none;
+    color: #97A1A9;
+    outline: none;
+    float: left;
+    line-height: 15px;
+    width: 240px;
+    font-size: 15px;
+    
+}
+.d{
+    color: #FFFFFF;
+}
+
+.search-btn{
+    background: #283A46;
+    text-align: center;
+   
+}
+
+ .txt{
+    margin-right: 10px;
+    background: none;
+    border-radius: 10px;
+    width: 100%;
+    font-size: 20px;
+    border: 1px solid #14AFF1;
+    height: 56px;
+    padding: 20px 50px 0px 100px ;
+
+}
+.txt1{
+   
+    height: 57.5px;
+    padding: 20px 50px 0px 100px ;
+   
+  }
+
+.btn{
+    color: #FFFFFF;
+    padding: 50px 50px 50px;
+}
+.dbtns1{
+    padding: 10px;
+    margin-right: 10px;
+    width: 250px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.dbtns2{
+   
+    padding: 10px;
+    margin-right: 5px;
+    width: 250px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.abtns1{
+    padding: 10px;
+    margin-right: 10px;
+    width: 630px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.abtns2{
+   
+    padding: 10px;
+    margin-right: 5px;
+    width: 630px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.ebtns1{
+    padding: 10px;
+    margin-right: 10px;
+    width: 250px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.ebtns2{
+   
+    padding: 10px;
+    margin-right: 8px;
+    width: 250px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.sbtns1{
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.sbtns2{
+   
+    padding: 10px;
+    margin-right: 5px;
+    width: 300px;
+    border: 1px solid #FFFFFF;
+    background: #283A46;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.btn1{
+    color: #FFFFFF;
+    
+}
+
+a{
+   
+    text-decoration: none;
+   
+}
+
+.footer {
+   
+    
+  
+    
+   
+    padding-top: 0.5px;
+    align-content: center;
+   
+    
+  }
+  
